@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Mức hỗ trợ học phí của Tập đoàn Vingroup dành cho sinh viên nhập học tại Trường Đại học VinUniversity là bao nhiêu?",
+    "expected_answer": "Toàn bộ sinh viên trúng tuyển nhập học vào VinUniversity trong các năm học từ 2025 đến 2030 đều được Tập đoàn Vingroup hỗ trợ 35% học phí cho toàn bộ thời gian học tập chính thức tại trường.",
+    "expected_context": "Toàn bộ sinh viên trúng tuyển nhập học vào VinUniversity trong các năm học từ 2025 đến 2030 đều được Tập đoàn Vingroup hỗ trợ 35% học phí cho toàn bộ thời gian học tập chính thức tại trường."
+  },
+  {
+    "question": "Học bổng Chủ tịch Trường tại VinUniversity có giá trị và quyền lợi như thế nào?",
+    "expected_answer": "Học bổng Chủ tịch Trường (Presidential Scholarship) trị giá 100% học phí toàn khóa cộng thêm chi phí ăn, ở và sinh hoạt tại Ký túc xá trường.",
+    "expected_context": "Học bổng Chủ tịch Trường (Presidential Scholarship): Trị giá 100% học phí toàn khóa cộng thêm chi phí ăn, ở và sinh hoạt tại Ký túc xá trường."
+  },
+  {
+    "question": "Học bổng Khuyến khích học tập Loại A của Đại học Bách khoa Hà Nội yêu cầu GPA và điểm rèn luyện tối thiểu bao nhiêu?",
+    "expected_answer": "Học bổng Loại A yêu cầu GPA ≥ 3.60 và điểm rèn luyện ≥ 90, mức thưởng tương đương 1.5 lần mức học phí chuẩn.",
+    "expected_context": "Học bổng Loại A (Xuất sắc): Điều kiện GPA ≥ 3.60 và điểm rèn luyện ≥ 90. Mức thưởng tương đương 1.5 lần mức học phí chuẩn."
+  },
+  {
+    "question": "Học bổng Trần Đại Nghĩa tại Đại học Bách khoa Hà Nội hỗ trợ mức học phí bao nhiêu?",
+    "expected_answer": "Học bổng Trần Đại Nghĩa hỗ trợ 50% hoặc 100% học phí dành cho sinh viên có hoàn cảnh khó khăn vươn lên đạt học lực khá giỏi.",
+    "expected_context": "Học bổng Trần Đại Nghĩa: Dành cho sinh viên có hoàn cảnh khó khăn vươn lên đạt học lực khá giỏi, hỗ trợ 50% hoặc 100% học phí."
+  },
+  {
+    "question": "Văn bản quy định hiện hành về quản lý và xét cấp học bổng sinh viên tại ĐHQGHN là văn bản nào?",
+    "expected_answer": "Đại học Quốc gia Hà Nội ban hành Quyết định số 4618/QĐ-ĐHQGHN ngày 07/10/2024 quy định chi tiết công tác quản lý và xét cấp học bổng (thay thế Quyết định cũ 5249/QĐ-ĐHQGHN).",
+    "expected_context": "Đại học Quốc gia Hà Nội ban hành Quyết định số 4618/QĐ-ĐHQGHN ngày 07/10/2024 quy định chi tiết công tác quản lý và xét cấp học bổng cho học sinh, sinh viên, học viên cao học và nghiên cứu sinh (thay thế Quyết định cũ 5249/QĐ-ĐHQGHN)."
+  },
+  {
+    "question": "Tỷ lệ tối thiểu trích từ học phí để lập quỹ học bổng Khuyến khích học tập tại ĐHQGHN là bao nhiêu?",
+    "expected_answer": "Học bổng Khuyến khích học tập được trích tối thiểu 15% từ nguồn thu học phí của sinh viên chính quy để xét cấp theo kỳ.",
+    "expected_context": "Được trích tối thiểu 15% từ nguồn thu học phí của sinh viên chính quy để xét cấp theo kỳ nhằm hỗ trợ chi phí học tập cho người học có kết quả học tập, rèn luyện từ loại Khá trở lên."
+  },
+  {
+    "question": "Hệ thống đăng ký học phần và quản lý đào tạo tín chỉ trực tuyến của Đại học Ngoại thương tên là gì?",
+    "expected_answer": "Sinh viên chủ động xây dựng lộ trình học tập và đăng ký học phần thông qua Cổng thông tin tín chỉ trực tuyến FTU GATE (ftugate.ftu.edu.vn).",
+    "expected_context": "Sinh viên chủ động xây dựng lộ trình học tập và đăng ký học phần thông qua Cổng thông tin tín chỉ trực tuyến FTU GATE (ftugate.ftu.edu.vn)."
+  },
+  {
+    "question": "Quy định 1 tín chỉ tại Trường Đại học Ngoại thương tương đương bao nhiêu tiết học?",
+    "expected_answer": "Mỗi tín chỉ tương đương với 15 tiết học lý thuyết hoặc 30 đến 45 tiết thực hành, thảo luận và thí nghiệm.",
+    "expected_context": "Trường Đại học Ngoại thương tổ chức đào tạo theo hệ thống tín chỉ. Mỗi tín chỉ tương đương với 15 tiết học lý thuyết hoặc 30 đến 45 tiết thực hành, thảo luận và thí nghiệm."
+  },
+  {
+    "question": "Quỹ học bổng danh giá thường niên tại Đại học FPT Hà Nội mang tên vị giáo sư nào?",
+    "expected_answer": "Học bổng thường niên mang tên cố Giáo sư Nguyễn Văn Đạo (Quỹ Học bổng Giáo sư Nguyễn Văn Đạo).",
+    "expected_context": "Quỹ Học bổng Giáo sư Nguyễn Văn Đạo: Học bổng danh giá thường niên mang tên cố Giáo sư Nguyễn Văn Đạo nhằm tìm kiếm và ươm mầm tài năng"
+  },
+  {
+    "question": "Sinh viên Đại học FPT cần hoàn thành tối thiểu bao nhiêu phần trăm số tín chỉ chuyên ngành trước khi đi thực tập OJT?",
+    "expected_answer": "Sinh viên phải hoàn thành tối thiểu 90% số tín chỉ các môn cơ sở ngành và đạt chuẩn tiếng Anh chuyên ngành trước khi tham gia học kỳ thực tập OJT kéo dài 4 tháng.",
+    "expected_context": "Sinh viên phải hoàn thành tối thiểu 90% số tín chỉ các môn cơ sở ngành và đạt chuẩn tiếng Anh chuyên ngành trước khi được cử tham gia học kỳ thực tập thực tế (OJT) kéo dài 4 tháng tại các doanh nghiệp."
+  },
+  {
+    "question": "Mỗi học kỳ chính sinh viên được đăng ký tối thiểu và tối đa bao nhiêu tín chỉ theo quy chế đào tạo đại học?",
+    "expected_answer": "Mỗi học kỳ chính, sinh viên phải đăng ký tối thiểu 14 tín chỉ và tối đa không quá 24 tín chỉ.",
+    "expected_context": "Mỗi học kỳ chính, sinh viên phải đăng ký tối thiểu 14 tín chỉ và tối đa không quá 24 tín chỉ (trừ học kỳ cuối khi làm đồ án/khóa luận). Trong học kỳ hè, sinh viên được đăng ký tối đa 8 tín chỉ để học cải thiện hoặc học vượt."
+  },
+  {
+    "question": "Sinh viên có thể hủy học phần trong thời gian nào để không bị ghi nhận điểm F?",
+    "expected_answer": "Sinh viên có quyền hủy học phần đã đăng ký trong 2 tuần đầu học kỳ mà không bị ghi điểm F.",
+    "expected_context": "Sinh viên có quyền hủy học phần đã đăng ký trong 2 tuần đầu học kỳ mà không bị ghi điểm F. Rút học phần từ tuần thứ 3 đến tuần thứ 6 sẽ nhận điểm W và không được hoàn lại học phí."
+  },
+  {
+    "question": "Thang điểm chữ quy đổi sang thang điểm 4 như thế nào theo quy chế đào tạo?",
+    "expected_answer": "Thang điểm chữ quy đổi sang thang điểm 4: điểm A tương ứng 4.0, điểm B tương ứng 3.0, điểm C tương ứng 2.0, điểm D tương ứng 1.0 và điểm F là 0.0.",
+    "expected_context": "Điểm chữ được quy đổi sang thang điểm 4: A tương ứng 4.0, B tương ứng 3.0, C tương ứng 2.0, D tương ứng 1.0 và F là 0.0."
+  },
+  {
+    "question": "Mức điểm CPA bao nhiêu thì sinh viên được xếp loại học lực Xuất sắc và Giỏi?",
+    "expected_answer": "Điểm trung bình tích lũy CPA từ 3.60 đến 4.00 xếp loại Xuất sắc; từ 3.20 đến 3.59 xếp loại Giỏi.",
+    "expected_context": "Điểm trung bình tích lũy (CPA) từ 3.60 đến 4.00 xếp loại Xuất sắc; từ 3.20 đến 3.59 xếp loại Giỏi; từ 2.50 đến 3.19 xếp loại Khá; từ 2.00 đến 2.49 xếp loại Trung bình; dưới 2.00 xếp loại Yếu."
+  },
+  {
+    "question": "Đối tượng sinh viên nào được miễn 100% học phí theo quy định Nghị định 81/2021/NĐ-CP?",
+    "expected_answer": "Sinh viên là con thương binh, liệt sĩ, sinh viên khuyết tật nặng có hoàn cảnh khó khăn, hoặc sinh viên mồ côi cả cha lẫn mẹ không nơi nương tựa.",
+    "expected_context": "Áp dụng cho sinh viên là con thương binh, liệt sĩ, sinh viên khuyết tật nặng có hoàn cảnh khó khăn, hoặc sinh viên mồ côi cả cha lẫn mẹ không nơi nương tựa theo Nghị định 81/2021/NĐ-CP của Chính phủ."
+  },
+  {
+    "question": "Giá thuê phòng ký túc xá loại 4 người và loại 6 người là bao nhiêu một tháng?",
+    "expected_answer": "Phòng tiêu chuẩn 4 người có giá 650.000 VNĐ/sinh viên/tháng (có máy lạnh, bình nóng lạnh); phòng 6 người có giá 450.000 VNĐ/sinh viên/tháng.",
+    "expected_context": "Phòng tiêu chuẩn 4 người có trang bị máy lạnh, bình nước nóng, bàn học cá nhân có giá thuê 650.000 VNĐ/sinh viên/tháng. Phòng 6 người có giá thuê 450.000 VNĐ/sinh viên/tháng. Đơn giá trên chưa bao gồm chi phí điện, nước sinh hoạt thanh toán theo chỉ số công tơ thực tế."
+  }
+]

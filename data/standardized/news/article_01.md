@@ -1,0 +1,28 @@
+# Chính sách Học phí và Học bổng Trường Đại học VinUniversity
+
+**Source:** https://vinuni.edu.vn/vi/hoc-phi-va-hoc-bong/
+
+**Crawled:** 2026-09-20T15:47:03.583920
+
+---
+
+# Chính sách Học phí và Học bổng tại Trường Đại học VinUniversity (VinUni)
+
+## 1. Chính sách hỗ trợ học phí từ Nhà sáng lập Vingroup
+- Toàn bộ sinh viên trúng tuyển nhập học vào VinUniversity trong các năm học từ 2025 đến 2030 đều được Tập đoàn Vingroup hỗ trợ **35% học phí** cho toàn bộ thời gian học tập chính thức tại trường.
+- **Mức học phí niêm yết chuẩn:**
+  - Các ngành học tiêu chuẩn (Kỹ thuật máy tính, Khoa học dữ liệu, Quản trị kinh doanh): Khoảng **815.850.000 VNĐ (~35.000 USD)/năm học**.
+  - Ngành Cử nhân Điều dưỡng: Khoảng **349.650.000 VNĐ (~15.000 USD)/năm học**.
+  *(Mức học phí trên chưa trừ khoản 35% hỗ trợ từ Vingroup và các học bổng tài năng khác).*
+
+## 2. Hệ thống Học bổng Tài năng (Merit-based Scholarships)
+VinUniversity trao tặng các suất học bổng danh giá dựa trên năng lực vượt trội của ứng viên:
+- **Học bổng Chủ tịch Trường (Presidential Scholarship):** Trị giá **100% học phí toàn khóa** cộng thêm chi phí ăn, ở và sinh hoạt tại Ký túc xá trường.
+- **Học bổng Hiệu trưởng:** Trị giá **100% học phí**.
+- **Học bổng Viện trưởng:** Trị giá **80% đến 90% học phí**.
+- **Học bổng Tài năng Chuyên ngành:** Trị giá **50%, 60% đến 70% học phí**.
+
+## 3. Các chương trình học bổng khuyến khích cộng dồn
+- **Học bổng Nữ sinh Công nghệ (Women in Tech - WIT):** Cộng thêm 5% học phí cho nữ sinh theo đuổi khối ngành STEM.
+- **Học bổng liên thông Vinschool - VinUni:** 5% học phí dành cho học sinh tốt nghiệp hệ thống Vinschool.
+- **Chương trình Hỗ trợ tài chính dựa trên nhu cầu:** Hỗ trợ từ 5% đến 65% học phí dựa trên điều kiện kinh tế gia đình.

@@ -1,0 +1,20 @@
+# Quy chế Quản lý và Xét cấp Học bổng Sinh viên Đại học Quốc gia Hà Nội (Quyết định 4618/QĐ-ĐHQGHN)
+
+**Source:** https://vnu.edu.vn/vi/tin-tuc/quy-dinh-hoc-bong-sinh-vien-dhqghn
+
+**Crawled:** 2026-09-20T15:47:03.585335
+
+---
+
+# Quy định về Công tác Quản lý và Sử dụng Học bổng tại Đại học Quốc gia Hà Nội (ĐHQGHN)
+
+## 1. Căn cứ pháp lý
+Đại học Quốc gia Hà Nội ban hành **Quyết định số 4618/QĐ-ĐHQGHN** ngày 07/10/2024 quy định chi tiết công tác quản lý và xét cấp học bổng cho học sinh, sinh viên, học viên cao học và nghiên cứu sinh (thay thế Quyết định cũ 5249/QĐ-ĐHQGHN).
+
+## 2. Các nguồn học bổng tại ĐHQGHN
+- **Học bổng Khuyến khích học tập (KKHT):** Được trích tối thiểu **15% từ nguồn thu học phí** của sinh viên chính quy để xét cấp theo kỳ nhằm hỗ trợ chi phí học tập cho người học có kết quả học tập, rèn luyện từ loại Khá trở lên.
+- **Học bổng Chính sách từ ngân sách Nhà nước:** Miễn, giảm 100% hoặc 50% học phí theo Nghị định 81/2021/NĐ-CP cho đối tượng sinh viên dân tộc thiểu số vùng đặc biệt khó khăn, sinh viên khuyết tật, con liệt sĩ.
+- **Học bổng Tài trợ Doanh nghiệp:** Nguồn kinh phí từ các tập đoàn công nghệ trong và ngoài nước (như Samsung, Honda, Yamada, Mitsubishi) với giá trị từ 10.000.000 đến 35.000.000 VNĐ/suất.
+
+## 3. Quy trình nộp hồ sơ và xét duyệt
+Sinh viên theo dõi thông báo trực tiếp từ Phòng Công tác Học sinh - Sinh viên tại các trường đại học thành viên (như ĐH Công nghệ, ĐH Khoa học Tự nhiên, ĐH Khoa học Xã hội & Nhân văn) để nộp hồ sơ trực tuyến.
